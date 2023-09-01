@@ -9,3 +9,7 @@
 ``` javascript
 var myVar = "Hello, world!";
 ```
+
+- [x] Open Github
+- [x]  Finish markdown
+- [ ] Merge branches
